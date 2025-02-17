@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../coding assignments"
+        },
+        {
+            "path": "../projects"
+        },
+        {
+            "path": "../style.css"
+        },
+        {
+            "path": "../styletable.css"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "projects"
+    }
+}
