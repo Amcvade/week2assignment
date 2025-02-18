@@ -1,19 +1,24 @@
 {
     "folders": [
         {
+            "name": "learn git",
             "path": "."
         },
         {
-            "path": "../coding assignments"
+            "name": "styletable.css",
+            "path": "../styletable.css"
         },
         {
-            "path": "../projects"
-        },
-        {
+            "name": "style.css",
             "path": "../style.css"
         },
         {
-            "path": "../styletable.css"
+            "name": "coding assignments",
+            "path": "../coding assignments"
+        },
+        {
+            "name": "projects",
+            "path": "../projects"
         }
     ],
     "settings": {
